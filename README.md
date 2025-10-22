@@ -1,0 +1,2 @@
+# taskdeux
+ To design a low-fidelity wireframe showing the basic user flow of a food delivery app — from the home screen to the order confirmation screen. This task helps interns learn about information architecture, layout planning, and user journey mapping before adding colors or visuals.
